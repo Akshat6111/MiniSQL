@@ -1,0 +1,16 @@
+C:/Users/Akshat/Desktop/New folder/MINI_DATABASE/minisql/build/CMakeFiles/minisql_lexer.dir
+C:/Users/Akshat/Desktop/New folder/MINI_DATABASE/minisql/build/CMakeFiles/minisql_ast.dir
+C:/Users/Akshat/Desktop/New folder/MINI_DATABASE/minisql/build/CMakeFiles/minisql_parser.dir
+C:/Users/Akshat/Desktop/New folder/MINI_DATABASE/minisql/build/CMakeFiles/lexer_demo.dir
+C:/Users/Akshat/Desktop/New folder/MINI_DATABASE/minisql/build/CMakeFiles/parser_demo.dir
+C:/Users/Akshat/Desktop/New folder/MINI_DATABASE/minisql/build/CMakeFiles/minisql_storage.dir
+C:/Users/Akshat/Desktop/New folder/MINI_DATABASE/minisql/build/CMakeFiles/storage_demo.dir
+C:/Users/Akshat/Desktop/New folder/MINI_DATABASE/minisql/build/CMakeFiles/minisql_btree.dir
+C:/Users/Akshat/Desktop/New folder/MINI_DATABASE/minisql/build/CMakeFiles/btree_demo.dir
+C:/Users/Akshat/Desktop/New folder/MINI_DATABASE/minisql/build/CMakeFiles/minisql_executor.dir
+C:/Users/Akshat/Desktop/New folder/MINI_DATABASE/minisql/build/CMakeFiles/executor_demo.dir
+C:/Users/Akshat/Desktop/New folder/MINI_DATABASE/minisql/build/CMakeFiles/minisql_benchmark.dir
+C:/Users/Akshat/Desktop/New folder/MINI_DATABASE/minisql/build/CMakeFiles/benchmark.dir
+C:/Users/Akshat/Desktop/New folder/MINI_DATABASE/minisql/build/CMakeFiles/query_runner.dir
+C:/Users/Akshat/Desktop/New folder/MINI_DATABASE/minisql/build/CMakeFiles/edit_cache.dir
+C:/Users/Akshat/Desktop/New folder/MINI_DATABASE/minisql/build/CMakeFiles/rebuild_cache.dir

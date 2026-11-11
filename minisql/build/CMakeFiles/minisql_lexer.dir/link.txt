@@ -1,0 +1,2 @@
+C:\mingw64\mingw64\bin\ar.exe qc libminisql_lexer.a CMakeFiles/minisql_lexer.dir/src/lexer/token.cpp.obj CMakeFiles/minisql_lexer.dir/src/lexer/lexer.cpp.obj
+C:\mingw64\mingw64\bin\ranlib.exe libminisql_lexer.a

@@ -1,0 +1,3 @@
+C:\mingw64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\parser_demo.dir/objects.a
+C:\mingw64\mingw64\bin\ar.exe qc CMakeFiles\parser_demo.dir/objects.a @CMakeFiles\parser_demo.dir\objects1.rsp
+C:\mingw64\mingw64\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\parser_demo.dir/objects.a -Wl,--no-whole-archive -o parser_demo.exe -Wl,--out-implib,libparser_demo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\parser_demo.dir\linkLibs.rsp

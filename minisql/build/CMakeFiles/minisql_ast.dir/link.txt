@@ -1,0 +1,2 @@
+C:\mingw64\mingw64\bin\ar.exe qc libminisql_ast.a CMakeFiles/minisql_ast.dir/src/ast/ast.cpp.obj
+C:\mingw64\mingw64\bin\ranlib.exe libminisql_ast.a

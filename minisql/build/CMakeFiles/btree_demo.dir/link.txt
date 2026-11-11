@@ -1,0 +1,3 @@
+C:\mingw64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\btree_demo.dir/objects.a
+C:\mingw64\mingw64\bin\ar.exe qc CMakeFiles\btree_demo.dir/objects.a @CMakeFiles\btree_demo.dir\objects1.rsp
+C:\mingw64\mingw64\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\btree_demo.dir/objects.a -Wl,--no-whole-archive -o btree_demo.exe -Wl,--out-implib,libbtree_demo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\btree_demo.dir\linkLibs.rsp

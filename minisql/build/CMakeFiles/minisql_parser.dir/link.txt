@@ -1,0 +1,2 @@
+C:\mingw64\mingw64\bin\ar.exe qc libminisql_parser.a CMakeFiles/minisql_parser.dir/src/parser/parser.cpp.obj
+C:\mingw64\mingw64\bin\ranlib.exe libminisql_parser.a

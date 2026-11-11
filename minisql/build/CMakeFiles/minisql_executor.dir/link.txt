@@ -1,0 +1,2 @@
+C:\mingw64\mingw64\bin\ar.exe qc libminisql_executor.a CMakeFiles/minisql_executor.dir/src/executor/row_context.cpp.obj CMakeFiles/minisql_executor.dir/src/executor/expression_evaluator.cpp.obj CMakeFiles/minisql_executor.dir/src/executor/executor.cpp.obj
+C:\mingw64\mingw64\bin\ranlib.exe libminisql_executor.a

@@ -1,0 +1,2 @@
+C:\mingw64\mingw64\bin\ar.exe qc libminisql_storage.a CMakeFiles/minisql_storage.dir/src/storage/page.cpp.obj CMakeFiles/minisql_storage.dir/src/storage/page_manager.cpp.obj CMakeFiles/minisql_storage.dir/src/storage/schema.cpp.obj CMakeFiles/minisql_storage.dir/src/storage/row.cpp.obj CMakeFiles/minisql_storage.dir/src/storage/table_storage.cpp.obj CMakeFiles/minisql_storage.dir/src/storage/storage_engine.cpp.obj
+C:\mingw64\mingw64\bin\ranlib.exe libminisql_storage.a

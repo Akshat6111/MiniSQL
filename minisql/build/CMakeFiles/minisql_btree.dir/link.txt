@@ -1,0 +1,2 @@
+C:\mingw64\mingw64\bin\ar.exe qc libminisql_btree.a CMakeFiles/minisql_btree.dir/src/btree/btree_node.cpp.obj CMakeFiles/minisql_btree.dir/src/btree/btree.cpp.obj
+C:\mingw64\mingw64\bin\ranlib.exe libminisql_btree.a

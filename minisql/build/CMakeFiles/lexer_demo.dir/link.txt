@@ -1,0 +1,3 @@
+C:\mingw64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\lexer_demo.dir/objects.a
+C:\mingw64\mingw64\bin\ar.exe qc CMakeFiles\lexer_demo.dir/objects.a @CMakeFiles\lexer_demo.dir\objects1.rsp
+C:\mingw64\mingw64\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\lexer_demo.dir/objects.a -Wl,--no-whole-archive -o lexer_demo.exe -Wl,--out-implib,liblexer_demo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lexer_demo.dir\linkLibs.rsp

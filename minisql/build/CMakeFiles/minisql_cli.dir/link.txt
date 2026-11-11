@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\minisql_cli.dir/objects.a
+C:\mingw64\mingw64\bin\ar.exe qc CMakeFiles\minisql_cli.dir/objects.a @CMakeFiles\minisql_cli.dir\objects1.rsp
+C:\mingw64\mingw64\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\minisql_cli.dir/objects.a -Wl,--no-whole-archive -o minisql_cli.exe -Wl,--out-implib,libminisql_cli.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\minisql_cli.dir\linkLibs.rsp

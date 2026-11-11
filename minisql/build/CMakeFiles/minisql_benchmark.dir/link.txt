@@ -1,0 +1,2 @@
+C:\mingw64\mingw64\bin\ar.exe qc libminisql_benchmark.a CMakeFiles/minisql_benchmark.dir/src/benchmark/dataset_generator.cpp.obj CMakeFiles/minisql_benchmark.dir/src/benchmark/benchmark_runner.cpp.obj
+C:\mingw64\mingw64\bin\ranlib.exe libminisql_benchmark.a
